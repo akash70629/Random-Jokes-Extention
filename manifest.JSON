@@ -1,0 +1,13 @@
+{
+    "name": "All is well 😁",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "It's a random jokes showing extension",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+    }
+}
